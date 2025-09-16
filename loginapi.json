@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "email": "shivam@gmail.com",
+        "password": "shivam@1122",
+        "type": "Admin"
+    },
+    {
+        "id": "2",
+        "email": "lucky@gmail.com",
+        "password": "lucky@1122",
+        "type": "trainer"
+    },
+    {
+        "id": "3",
+        "email": "komal@gmail.com",
+        "password": "komal@1122",
+        "type": "trainer"
+    },
+    {
+        "id": "4",
+        "email": "rupam@gmail.com",
+        "password": "rupam@1122",
+        "type": "trainer"
+    },
+    {
+        "id": "5",
+        "email": "pramod@gmail.com",
+        "password": "pramod@1122",
+        "type": "student"
+    },
+    {
+        "id": "6",
+        "email": "shailendra@gmail.com",
+        "password": "shailendra@1122",
+        "type": "student"
+    },
+    {
+        "id": "7",
+        "email": "anita@gmail.com",
+        "password": "anita@1122",
+        "type": "student"
+    },
+    {
+        "id": "8",
+        "email": "pradeep@gmail.com",
+        "password": "pradeep@1122",
+        "type": "student"
+    },
+    {
+        "id": "9",
+        "email": "pooja@gmail.com",
+        "password": "pooja@1122",
+        "type": "trainer"
+    },
+    {
+        "id": "10",
+        "email": "ravi@gmail.com",
+        "password": "ravi@1122",
+        "type": "student"
+    }
+]
